@@ -1,10 +1,4 @@
-# x
-
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
+# St. Louis clojure meetup repo for February, 2014 
 
 ## License
 
